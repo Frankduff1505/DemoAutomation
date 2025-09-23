@@ -10,6 +10,7 @@ public class DemoClass {
 		System.out.println("Java5");
 		System.out.println("Java7");
 		System.out.println("Java8");
+		System.out.println("Java6");
 
 	}
 
