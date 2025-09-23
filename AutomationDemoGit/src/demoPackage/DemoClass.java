@@ -6,6 +6,7 @@ public class DemoClass {
 		System.out.println("Java");
 		System.out.println("Java2");
 		System.out.println("Java3");
+		System.out.println("Java4");
 
 	}
 
