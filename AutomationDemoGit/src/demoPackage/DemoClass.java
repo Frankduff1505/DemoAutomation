@@ -14,7 +14,9 @@ public class DemoClass {
 		System.out.println("Java6");
 		System.out.println("Java9");
 		for(int i=0;i<10;i++) {
-			
+			for(init j=0;j<10;j++)
+				{
+					
 		}
 
 	}
