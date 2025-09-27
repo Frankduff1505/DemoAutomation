@@ -13,7 +13,9 @@ public class DemoClass {
 		System.out.println("Java8");
 		System.out.println("Java6");
 		System.out.println("Java9");
-		System.out.println("Java11");
+		for(int i=0;i<10;i++) {
+			
+		}
 
 	}
 
